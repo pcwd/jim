@@ -78,7 +78,7 @@ export default function Home() {
   return (
     <>
       <img src="/uncle-jim.png" className="w-16 h-16 rounded-lg" alt="" />
-      <p className="font-semibold mt-4">Uncle Jim</p>
+      <p className="font-semibold mt-4">Nostr Wallet Connect</p>
       <div className="flex flex-col gap-4 max-w-lg border-2 rounded-xl p-4 items-center justify-center mt-4 mb-16">
         {!wallet && (
           <p>
