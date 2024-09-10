@@ -86,7 +86,7 @@ export default function Home() {
             <a href="https://nwc.dev" target="_blank" className="font-semibold">
               NWC-powered
             </a>{" "}
-            app: Damus, Amethyst, Alby Extension, Alby Account, Nostrudel,{" "}
+            app: Damus, Amethyst, AlbyGo, Alby Extension, Alby Account, Nostrudel,{" "}
             <a
               href="https://github.com/getAlby/awesome-nwc"
               target="_blank"
