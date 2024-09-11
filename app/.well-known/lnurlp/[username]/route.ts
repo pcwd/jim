@@ -16,6 +16,6 @@ export async function GET(
     callback: `${getBaseUrl()}/.well-known/lnurlp/${params.username}/callback`,
     minSendable: 1000,
     maxSendable: 10000000000,
-    metadata: `[["text/identifier","${params.username}@${domain}"],["text/plain","Sats received."]]`,
+    metadata: `[["text/identifier","${params.username}@${domain}"],["text/plain","Sats for lnwallet user ${params.username}"]]`,
   });
 }
