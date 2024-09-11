@@ -5,7 +5,7 @@ import React from "react";
 export const metadata: Metadata = {
   title: "Nostr Wallet Connect",
   description:
-    "A Nostr Wallet Connect service that gives out instant wallets that can be used in any NWC-powered app such as Damus, Amethyst, Alby Browser Extension and Alby Account",
+    "A Nostr Wallet Connect service that gives out instant wallets that can be used in any NWC-powered app such as Damus, Amethyst, AlbyGo, Alby Browser Extension and Alby Account",
 };
 
 export default function RootLayout({
